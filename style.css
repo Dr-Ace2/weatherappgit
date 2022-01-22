@@ -1,0 +1,38 @@
+/* e2f664c72f187b3d3a0c64387e70435e first *
+
+/* 78461d19f5fc89f9373c3e82b9601751 2nd */
+
+/* api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key} */
+
+/* https://api.openweathermap.org/data/2.5/weather?q=london&appid=e2f664c72f187b3d3a0c64387e70435e */
+/* https://openweathermap.org/weather-conditions */
+/* openweathermap api image weather */
+/* https://openweathermap.org/current */
+
+/* https://github.com/Dr-Ace2/weatherapp(APP repository) */
+
+/* https://dr-ace2.github.io/weatherapp/ */
+
+
+/* https://github.com/Dr-Ace2/weatherappnew */
+
+/* https://github.com/Dr-Ace2/ajaxweatherapp */
+
+/* https://getbootstrap.com/docs/4.0/getting-started/introduction/ */
+
+/* codepen.io/merb/pen/yOwJjj */
+/* typed.js(github) */
+
+
+.custom{
+
+    background-image: url("weather1.jpg");
+}
+
+#foot{
+    background-color: grey;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    
+}
